@@ -9,6 +9,3 @@ Open terminal and type following commands to make ready project
 5. type `pod install` (for ios only)
 
 
-group calling  -done
-video calling  - done
-agora => AppID , Secret Key(Test)
